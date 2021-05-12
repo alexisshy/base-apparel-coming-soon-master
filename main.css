@@ -7,3 +7,17 @@ body {
     text-transform: uppercase;
 
 }
+
+h1 .first  {
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    /* identical to box height, or 100% */
+    letter-spacing: 17.3206px;
+
+    color: #CE9898;
+
+
+}
