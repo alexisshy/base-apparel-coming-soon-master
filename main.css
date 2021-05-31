@@ -3,21 +3,56 @@ body {
     
 }
 
+#modal {
+    width: 445px;
+    margin-left: 165px;
+}
+
 #modal h1 {
     text-transform: uppercase;
+    /* COMING SOON */
+
+    
+    height: auto;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 71px;
+    /* or 111% */
+    letter-spacing: 17.3206px;
+    color: #423A3A;
+    
+    
+
+
 
 }
 
-h1 .first  {
+#modal p {
+    /* Hello fellow shopper */
+
+    
+    
+    height: 84px;
     font-family: Josefin Sans;
     font-style: normal;
-    font-weight: 300;
-    font-size: 64px;
-    line-height: 64px;
-    /* identical to box height, or 100% */
-    letter-spacing: 17.3206px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
 
     color: #CE9898;
 
 
 }
+
+h1 .first  {
+    font-weight: 300;
+    line-height: 64px;
+    color: #CE9898;
+
+
+}
+
+
